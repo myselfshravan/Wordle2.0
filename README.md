@@ -1,18 +1,20 @@
 # Wordle2.0
 
-Our the Beast Version of Wordel is about to launch Soon.
+The __Beast__ Version of Wordel is about to launch Soon.
 
-# Features :
-Complete the code
-Make easy medium hard levels
-(3 letter) 
-(hint : 12)
-Multiplayer game hidden word defined by other user
-Attach the answer and guesses file
-Make a responsive website for that and anyone can play online
-Host it in on GitHub
-Make a different scoring method ()
-Add a time limit and based on that give a score.
-Also make a program to solve the wordel game. 
-Explain how the program works in a simple way.
-Make it open source.
+## Features :
+***
+* Complete the code</br>
+* Make easy medium hard levels</br>
+ (3, 4 , 5 letter words)</br>
+ (Give hint : 15 to 20 Alphabets)</br>
+* Multiplayer game hidden word defined by other user.</br>
+* Attach the answer and guesses file.</br>
+* Make a responsive website for that and anyone can play online.</br>
+* Host it in on GitHub</br>
+* Make a different scoring method.</br>
+* Add Timer and Sound Effects for the game.</br>
+* Add a time limit and based on that give a score.</br>
+* Also make a program to solve the wordel game.</br>
+* Explain how the program works in a simple way.</br>
+* Make it open source.</br>
